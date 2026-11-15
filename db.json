@@ -1,0 +1,64 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "Rahul",
+      "email": "rahul@gmail.com",
+      "mobile": "7878787878",
+      "department": "Marketing",
+      "joiningDate": "2026-10-11",
+      "status": "Inactive",
+      "projects": [
+        {
+          "name": "Project B",
+          "status": "In Progress"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Ravi",
+      "email": "rohit@example.com",
+      "mobile": "9876543210",
+      "department": "Finance",
+      "joiningDate": "2025-01-15",
+      "status": "Active",
+      "projects": [
+        {
+          "name": "Dashboard",
+          "status": "In Progress"
+        }
+      ]
+    },
+    {
+      "name": "Mohit Chauhan Jeebly",
+      "email": "mohit.chauhan@jeebly.com",
+      "mobile": "7864746464",
+      "department": "Marketing",
+      "joiningDate": "2026-10-04",
+      "status": "Active",
+      "projects": [
+        {
+          "name": "Project x",
+          "status": "In Progress"
+        }
+      ],
+      "id": "emp-1794635326399"
+    },
+    {
+      "name": "ravi",
+      "email": "ravi@gmail.com",
+      "mobile": "7828218271",
+      "department": "Sales",
+      "joiningDate": "2026-11-02",
+      "status": "Active",
+      "projects": [
+        {
+          "name": "Project B",
+          "status": "Pending"
+        }
+      ],
+      "id": "emp-1794707327528"
+    }
+  ]
+}
